@@ -148,6 +148,6 @@ This project was completed for:
 
 - **KOUSTAV DUTTA**
 - [https://www.linkedin.com/in/koustav-dutta-65a812208](Linkedin) (optional)
-- GitHub: [KOustav-yogi](https://github.com/Koustav-yogi)
+- GitHub: [Koustav-yogi](https://github.com/Koustav-yogi)
 
 ---
